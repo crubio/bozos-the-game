@@ -1,4 +1,4 @@
-[gd_scene load_steps=3 format=3 uid="uid://cpaukwqixyxse"]
+[gd_scene load_steps=3 format=3 uid="uid://dmpil7pp22bqo"]
 
 [ext_resource type="FontFile" uid="uid://bbgjehsuml5n6" path="res://assets/fonts/Xolonium-Regular.ttf" id="1_37p78"]
 [ext_resource type="Script" uid="uid://cbvi8w1m3avwt" path="res://scripts/hud.gd" id="1_64ctp"]
